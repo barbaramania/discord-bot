@@ -1,2 +1,3 @@
 # discord-bot
-A discord bot with simple replies 
+
+The project aimed to solve the issue of frequent interruptions to engineers by automating responses to service inquiries. The solution involved creating a Discord bot prototype that retrieves data from an EC2 instance, providing real-time information on server region, availability zone, IP address, and instance details. This automation reduced the need for engineers to respond manually, improving their productivity and minimizing delays. While the bot successfully handled commands and provided accurate data, better user guidance and additional features like uptime monitoring could enhance its usefulness in the future. This project highlights how automation can improve efficiency and team collaboration.
